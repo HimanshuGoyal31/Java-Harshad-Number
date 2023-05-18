@@ -22,4 +22,4 @@ public class HarshadNumber
         else
             System.out.println("Not a Harshad Number");
 	}
-}
+}//Harshad changes in harshad branch
